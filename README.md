@@ -7,11 +7,9 @@
 
 <p align="left"> <a href="https://twitter.com/hossein_dev" target="blank"><img src="https://img.shields.io/twitter/follow/hossein_dev?logo=twitter&style=for-the-badge" alt="hossein_dev" /></a> </p>
 
-- 🌱 I’m currently learning **Iconic, React, and Frontend Frameworks Architecture**
-
 - 👨‍💻 All of my projects are available at [https://github.com/HosseinSadeghi-dev?tab=repositories](https://github.com/HosseinSadeghi-dev?tab=repositories)
 
-- 💬 Ask me about **Angular, Vue, NestJs**
+- 💬 Ask me about **Angular, Vue, React, NodeJs**
 
 - 📫 How to reach me **sadeghihossein.hs@gmail.com**
 
